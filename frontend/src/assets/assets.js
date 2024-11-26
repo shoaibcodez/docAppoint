@@ -90,6 +90,7 @@ export const specialityData = [
   },
 ];
 
+// doctor password - 12345678 email - first_name@docappoint.com
 export const doctors = [
   {
     _id: "doc1",
@@ -159,7 +160,7 @@ export const doctors = [
     degree: "MBBS",
     experience: "4 Years",
     about:
-      "Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.",
+      "Dr. Jennifer has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Jennifer has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.",
     fees: 50,
     address: {
       line1: "57th Cross, Richmond",
@@ -183,7 +184,7 @@ export const doctors = [
   },
   {
     _id: "doc7",
-    name: "Dr. Christopher Davis",
+    name: "Dr. Chris Davis",
     image: doc7,
     speciality: "General physician",
     degree: "MBBS",
@@ -230,7 +231,7 @@ export const doctors = [
     _id: "doc10",
     name: "Dr. Jeffrey King",
     image: doc10,
-    speciality: "Pediatricians",
+    speciality: "Dermatologist",
     degree: "MBBS",
     experience: "2 Years",
     about:
@@ -305,7 +306,7 @@ export const doctors = [
     _id: "doc15",
     name: "Dr. Amelia Hill",
     image: doc15,
-    speciality: "Dermatologist",
+    speciality: "Pediatricians",
     degree: "MBBS",
     experience: "1 Years",
     about:
